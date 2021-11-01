@@ -3,7 +3,7 @@
 # Django Based CRUD App
 
 # What it can do?
-  In the App a customer can  create, upadate , delete orders from the products available.
+  In the App a customer can  create, upadate , delete orders which itself can be updated, added, deleted from the products available.
   It has been made to mainly to learn in and outs of the framework
 
 # Tech Stack
