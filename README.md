@@ -1,6 +1,6 @@
 # Customer_Management_App
 
-# It DJANGO BASED CRUD APP
+# Django Based CRUD App
 
 # What it can do?
   In the App a customer can  create, upadate , delete orders from the products available.
